@@ -31,8 +31,8 @@ Second, you have to install OpenFace: https://github.com/TadasBaltrusaitis/OpenF
 ## 3. Demo & Instructions for use
 There are certain steps to follow (different notebooks are available): 
 1) Extract all features of the video data (available upon request) 
-2) Preprocess this this data
+2) Preprocess this data
 3) Group Analysis of the data
 4) Machine Learning analysis
 
-The notebook already include the expeted output. The run time of all scripts for a normal desktop computer is several days. Thus, using a cluster is recommended. 
+The notebook already include the expected output. The run time of all scripts for a normal desktop computer is several days. Thus, using a cluster is recommended. 
